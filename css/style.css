@@ -1,0 +1,14 @@
+.fondo-rojo{
+    background-color: red;
+    color: blue;
+}
+
+.fondo-verde{
+    background-color: greenyellow;
+    color: red;
+}
+
+.fondo-azul{
+    background-color: blue;
+    color: greenyellow;
+}
